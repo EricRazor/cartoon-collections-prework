@@ -57,6 +57,8 @@ describe "Cartoon Collections" do
         cheddar_cheese = ["banana", "cheddar", "sock"]
         expect(find_the_cheese(cheddar_cheese)).to eq 'cheddar'
       end
+      
+      it "retu"
     end
     
     it "returns nil if the array does not contain a type of cheese" do
